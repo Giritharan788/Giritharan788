@@ -3,11 +3,11 @@
 
 
 # 🧱 Projects:
-1). https://giritharan788.github.io/To-do-list/
-2). https://giritharan788.github.io/Anime-Explorer/
-3). https://giritharan788.github.io/Calculator/
-4). https://giritharan788.github.io/FormValidation/
-5). https://giritharan788.github.io/CourseLandingPage/
+1). https://giritharan788.github.io/To-do-list/ <br>
+2). https://giritharan788.github.io/Anime-Explorer/ <br>
+3). https://giritharan788.github.io/Calculator/ <br>
+4). https://giritharan788.github.io/FormValidation/ <br>
+5). https://giritharan788.github.io/CourseLandingPage/ <br>
 
 
 ## 🌐 Socials:
