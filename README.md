@@ -4,6 +4,10 @@
 
 # 🧱 Projects:
 1). https://giritharan788.github.io/To-do-list/
+2). https://giritharan788.github.io/Anime-Explorer/
+3). https://giritharan788.github.io/Calculator/
+4). https://giritharan788.github.io/FormValidation/
+5). https://giritharan788.github.io/CourseLandingPage/
 
 
 ## 🌐 Socials:
