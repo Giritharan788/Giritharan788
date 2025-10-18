@@ -1,5 +1,9 @@
 # 💫 About Me:
-💻 I’m a college student passionate about technology and continuously upskilling myself in programming and software development.<br><br>🚀 My goal is to become a skilled software developer and contribute to building impactful and efficient applications.<br><br>📚 Currently, I’m sharpening my knowledge in programming languages, problem-solving, and modern development tools.<br><br>🤝 I enjoy collaborating, learning from peers, and working on projects that challenge me to grow as a developer.
+💻 I’m a college student passionate about technology and continuously upskilling myself in programming and software development.<br><br>🚀 My goal is to become a skilled software developer and contribute to building impactful and efficient applications.<br><br>📚 Currently, I’m sharpening my knowledge in programming languages, problem-solving, and modern development tools.<br><br>🤝 I enjoy collaborating, learning from peers, and working on projects that challenge me to grow as a developer.<br><br><hr>
+
+
+# 🧱 Projects:
+1). https://giritharan788.github.io/To-do-list/
 
 
 ## 🌐 Socials:
