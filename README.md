@@ -9,6 +9,7 @@
 4). https://giritharan788.github.io/FormValidation/ <br>
 5). https://giritharan788.github.io/CourseLandingPage/ <br>
 6). https://ex-e-com.netlify.app/ <br>
+7). https://deadline-reminder-f15b5.web.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giri_hbk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/giritharan-s-090301352) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=giritharan134@gmail.com)
